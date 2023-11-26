@@ -1,5 +1,11 @@
-### Hi there 👋
-
+Hi there 👋|
+My Name is Rae-Anna and I'm just starting in the world of data science. Join me along my journey of starting from scratch, never having an interest in coding or data analysis in my life.|
+Start date: November 26, 2023|
+🔭 I’m currently working on : Becoming a Data Scientist/ Project Manager|
+🌱 I’m currently learning: Cisco Data Analytics Essentials|
+⚡ Fun fact: I did Biomedical Engineering |
+Training completed: zero|
+Additions to my porfolio: zero|
 <!--
 **Rae1122/Rae1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
